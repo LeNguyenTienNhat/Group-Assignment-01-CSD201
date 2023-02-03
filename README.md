@@ -1,6 +1,6 @@
 
-#CSD201 - Group assignment 1
-**Author: Le Nguyen Tien Nhat - SE173012
+# CSD201 - Group assignment 1
+*Author: Le Nguyen Tien Nhat - SE173012*
 
 The output is expected as below:
 
